@@ -1,8 +1,6 @@
 # Estudiante de Pregrado
 
-**Ciencia de la Computación | 9no Ciclo**
-
-**Inglés Avanzado | ICPNA**
+#### Ciencia de la Computación - 9no Ciclo
 
 ## Actividades Extracurriculares
 ### Director de Tecnología de la Información y Comunicaciones en Inspírate UNI *(Agosto 2024 - Actualidad)*
@@ -12,6 +10,8 @@
 
 ## Educación
 - Estudiante de Pregrado | Universidad Nacional de Ingeniería
+
+#### Inglés Avanzado - ICPNA
 
 ## Experiencia
 - Administrador del Contenido de una Página Web | 2019-2022
